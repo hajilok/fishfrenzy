@@ -53,7 +53,7 @@ put your proxy in file `proxy.txt` format `http://username:pass@ip:port`
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Zlkcyber/fishfrenzy.git
+   git clone https://github.com/hajilok/fishfrenzy.git
    cd fishfrenzy
    ```
 2. Install dependencies:
